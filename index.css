@@ -1,0 +1,37 @@
+body{
+	font-family: Times New Roman, sans-serif;
+	color: #303333;
+	margin: 8px 20px;
+}
+
+.Datos{
+	text-align: center;
+}
+
+.Subtitle{
+	margin: 12px 0px 0px 0px;
+}
+
+.content {
+	margin: 8px 0px 8px 0px;
+}
+
+.educationSubtitle {
+	font-weight: bold;
+}
+
+.cisco {
+	list-style: none;
+}
+
+#nombrePersona{
+	margin: 3px;
+}
+
+#informacionPersona{
+	margin: 0px;
+}
+
+.Fecha{
+	font-style: italic;
+}
