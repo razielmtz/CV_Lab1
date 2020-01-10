@@ -28,10 +28,27 @@ body{
 	margin: 3px;
 }
 
-#informacionPersona{
+.informacionPersona{
 	margin: 0px;
+	font-size: 16px;
+	font-weight: 800;
 }
 
 .Fecha{
 	font-style: italic;
+}
+
+#seccionDatos{
+	overflow: hidden;
+}
+
+img{
+	margin: 3px;
+	padding: 0px;
+	float: right;
+	border-radius: 25px;
+}
+
+#noMover{
+	position: absolute;
 }
